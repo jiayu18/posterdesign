@@ -1,0 +1,118 @@
+
+.main4{
+    float:left;
+    position: relative;
+    font-size: 16px;
+    width: 100%;
+    height: 100%;
+    
+    background-color:#251318;
+    line-height: 2.5;
+    
+   
+}
+
+.main4 span{
+    color: #64564d;
+    font-size: 13px;
+}
+.main4_t{
+    float:left;
+    position: relative;
+    height: 200px;
+    width: 100%;
+    background-color:#A88484;
+}
+
+.main4_r li{
+    color:#5c2727; text-align: center; list-style: none; font-weight: bold;
+}
+
+.main4_l{
+    float:left;
+    position: relative;
+    height:470px;
+    padding: 2%;
+    font-size:16px;
+    width: 20%;
+    background-color:#CDAFAF;
+    line-height: 2.5;
+}
+[m4_l="tag1"]{
+    padding: 5px;
+    width: 100%;
+    background-color: #583636;
+    color: #ffffff;
+    border-radius: 5px;
+    list-style: none;
+    text-align: center;
+    box-shadow: 1px 1px 8px 1px #634C4C;
+    -webkit-box-shadow: 1px 1px 8px 1px #634C4C;
+    -moz-box-shadow: 1px 1px 8px 1px #634C4C;
+    -o-box-shadow: 1px 1px 8px 1px #634C4C;
+}
+
+[m4_l="tag3"]{
+    padding: 5px;
+    width: 10%;
+   
+    background-color: #583636;
+    color: #ffffff;
+    border-radius: 5px;
+    list-style: none;
+    text-align: center;
+    box-shadow: 1px 1px 8px 1px #634C4C;
+    -webkit-box-shadow: 1px 1px 8px 1px #634C4C;
+    -moz-box-shadow: 1px 1px 8px 1px #634C4C;
+    -o-box-shadow: 1px 1px 8px 1px #634C4C;
+  
+}
+[m4_2="tag2"]{
+    padding: 5px;
+    width: 100%;
+    background-color: #cfa4a3;
+    color: #583636;
+    border-radius: 5px;
+    list-style: none;
+    box-shadow: 1px 1px 8px 1px #634C4C;
+    -webkit-box-shadow: 1px 1px 8px 1px #634C4C;
+    -moz-box-shadow: 1px 1px 8px 1px #634C4C;
+    -o-box-shadow: 1px 1px 8px 1px #634C4C;
+
+}
+.btn{
+    width:100%;
+    
+}
+.btn :hover{
+    background-color:#583636 ;
+    opacity: 0.9;
+    transition:color 0.5s;
+    -moz-transition:color 0.5s;
+    -webkit-transition:color 0.5s;
+    -o-transition:color 0.5s;
+}
+.main4 a {
+    
+    color: #ffffff;
+    text-decoration: none;
+}
+.main4_r{
+    float:left;
+    position: relative;
+    height: 470px;
+    padding: 2%;
+    font-size: 14px;
+    width: 80%;
+    color: #3d2f2f;
+    background-color:#ffffff;
+    line-height:2.5;
+    border: 5px #8f7a7a solid;
+    overflow: auto;
+}
+
+
+
+
+
+
